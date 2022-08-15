@@ -6,6 +6,11 @@ category: Jekyll
 layout: post
 ---
 
+```yaml
+toc:
+    enabled: true
+```
+
 The Automation Operating Model (AOM) represents how an automation program orchestrates and executes it's intelligent automation capabilties to create and deliver value to an organization, in line with it's business model and strategic objectives.
 
 :inbox_tray: Intake
