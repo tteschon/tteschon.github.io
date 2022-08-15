@@ -6,7 +6,9 @@ permalink: /
 
 Site link: [https://tteschon.github.io](https://tteschon.github.io)
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+<a href="https://twitter.com/intent/follow?screen_name=tylerteschon">
+        <img src="https://img.shields.io/twitter/follow/tylerteschon?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
 
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
